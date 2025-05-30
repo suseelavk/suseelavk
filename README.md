@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suseelavk
 - 👀 I’m interested in embedded systems and data analytics
-- 🌱 I’m currently pursuing final year electronics and comunication engineering
-- 💞️ I’m looking to collaborate on embedded system roles
+- 🌱 I’m currently pursuing final year Electronics and Comunication Engineering at Rajagii School Of Engineering And Technology
+- 💞️ I’m looking to collaborate on embedded system and data analytics roles
 - 📫 How to reach me: https://www.linkedin.com/in/suseelavk/
 
 <!---
